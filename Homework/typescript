@@ -1,0 +1,13 @@
+Script started on Sun Feb 21 20:37:19 2016
+[?1034hbash-3.2$ g++ -c[K[Khomework3.cpp
+bash-3.2$ ./a.out
+List one: 20 5 15 100 
+List two: 8 22 66 4 
+Unordered union: 20 5 15 100 8 22 66 4 
+Unordered intersect: 20 8 5 22 15 66 100 4 
+Ordered union: 5 15 20 100 4 8 22 66 
+Ordered intersect: 4 5 8 15 20 22 66 100 
+bash-3.2$ exit
+exit
+
+Script done on Sun Feb 21 20:37:30 2016

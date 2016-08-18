@@ -1,0 +1,13 @@
+Script started on Wed Mar  9 10:11:16 2016
+[?1034hbash-3.2$ c++ test.cpp
+bash-3.2$ ./a.out
+10
+All tests passed.
+bash-3.2$ c++ set_test.cpp
+bash-3.2$ ./a.ot[Kut
+Assertion failed: (*iter == 6), function main, file set_test.cpp, line 38.
+Abort trap: 6
+bash-3.2$ exit
+exit
+
+Script done on Wed Mar  9 10:11:28 2016

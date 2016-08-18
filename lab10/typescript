@@ -1,0 +1,11 @@
+Script started on Wed Mar 16 22:17:30 2016
+[?1034hbash-3.2$ c++ T[Ktest.cpp
+.bash-3.2$ ./a.out
+Segmentation fault: 11
+bash-3.2$ c++ Test_map.cpp
+bash-3.2$ ./a.out
+Segmentation fault: 11
+bash-3.2$ exit
+exit
+
+Script done on Wed Mar 16 22:17:41 2016

@@ -1,0 +1,6 @@
+test2 : test.o String.o
+	g++ -o test2 test.o String.o
+test.o: test.cpp
+	g++ -c test.cpp
+String.o: String.cpp
+	g++ -c string.cpp

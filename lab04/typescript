@@ -1,0 +1,8 @@
+Script started on Tue Feb  9 22:36:43 2016
+[?1034hbash-3.2$ g++ test.cpp
+bash-3.2$ ./a.out
+SUCCESS
+bash-3.2$ exit
+exit
+
+Script done on Tue Feb  9 22:36:52 2016

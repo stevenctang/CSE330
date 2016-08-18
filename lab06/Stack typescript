@@ -1,0 +1,12 @@
+Script started on Mon Feb 22 23:11:53 2016
+[?1034hbash-3.2$ g++ Test.cp[K[K[K[K[K[K[Ktest.cpp
+bash-3.2$ ./a.out
+6
+1.5
+bash-3.2$ g++ Stack_test.cpp ../lab03/str[K[K[KString.o
+bash-3.2$ ./a.out
+SUCCESS
+bash-3.2$ exit
+exit
+
+Script done on Mon Feb 22 23:12:18 2016

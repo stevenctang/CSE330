@@ -1,0 +1,7 @@
+test1 : String_test.o String.o
+	g++ -o test1 String_test.cpp String.cpp 
+String_test.o : String_test.cpp
+	g++ -c String_test.cpp
+String.o : String.cpp
+	g++ -c String.cpp
+clean : rm String_test.o String.o

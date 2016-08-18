@@ -1,0 +1,19 @@
+Script started on Wed Feb 24 00:22:21 2016
+[?1034hbash-3.2$ c++ test.cpp
+In file included from test.cpp:11:
+[1m./List.h:161:83: [0m[0;1;31merror: [0m[1mmember reference base type 'List_iterator<T> *' is not a
+      structure or union[0m
+  ...* source_iterator): current_link(source_iterator.current_link) { }
+[0;1;32m                                      ~~~~~~~~~~~~~~~^~~~~~~~~~~~~
+[0m1 error generated.
+bash-3.2$ c++ List_test.cpp
+In file included from List_test.cpp:12:
+[1m./List.h:161:83: [0m[0;1;31merror: [0m[1mmember reference base type 'List_iterator<T> *' is not a
+      structure or union[0m
+  ...* source_iterator): current_link(source_iterator.current_link) { }
+[0;1;32m                                      ~~~~~~~~~~~~~~~^~~~~~~~~~~~~
+[0m1 error generated.
+bash-3.2$ exit
+exit
+
+Script done on Wed Feb 24 00:22:31 2016

@@ -1,0 +1,67 @@
+
+Script started on Sat 23 Jan 2016 05:51:01 PM EST
+^[]0;004532176@csex11:~/cse330/lab02^G^[[?1034h[004532176@csex11 lab02]$ g++ u^H^[[Kbubble.cpp^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+1000^M
+^M
+real    0m2.592s^M
+user    0m0.012s^M
+sys     0m0.001s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+2000^M
+^M
+real    0m6.571s^M
+user    0m0.050s^M
+sys     0m0.003s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+3000^M
+^M
+real    0m1.712s^M
+user    0m0.088s^M
+sys     0m0.007s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+4000^M
+^M
+real    0m2.498s^M
+user    0m0.160s^M
+sys     0m0.003s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+5000^M
+^M
+real    0m4.745s^M
+user    0m0.267s^M
+sys     0m0.007s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+6000^M
+^M
+real    0m1.767s^M
+user    0m0.360s^M
+sys     0m0.005s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+7000^M
+^M
+real    0m2.226s^M
+user    0m0.493s^M
+sys     0m0.006s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+8000^M
+^
+real    0m2.351s^M
+user    0m0.644s^M
+sys     0m0.012s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble^M
+9000^M
+^M
+real    0m6.139s^M
+user    0m0.843s^M
+sys     0m0.008s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ time ./a.out > bubble]^H^[[K^M
+10000^M
+^M
+real    0m3.542s^M
+user    0m1.000s^M
+sys     0m0.012s^M
+^[]0;004532176@csex11:~/cse330/lab02^G[004532176@csex11 lab02]$ exit^M
+exit^M
+
+Script done on Sat 23 Jan 2016 05:51:56 PM EST

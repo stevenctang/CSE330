@@ -1,0 +1,15 @@
+Script started on Tues Mar  1 10:38:50 2016
+[?1034hbash-3.2$ g++[K[K[Kc++ deque_test.cpp
+bash-3.2$ ./a.u[Kout
+Assertion failed: (d.back() == 20), function main, file deque_test.cpp, line 30.
+Abort trap: 6
+bash-3.2$ c++ test.cpp
+Undefined symbols for architecture x86_64:
+  "Deque<int>::operator=(Deque<int> const&)", referenced from:
+      _main in test-c85633.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+bash-3.2$ exit
+exit
+
+Script done on Tues Mar  1 10:39:01 2016

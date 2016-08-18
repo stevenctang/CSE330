@@ -1,0 +1,9 @@
+hello
+i
+am
+a
+string
+file
+that
+has
+strings
